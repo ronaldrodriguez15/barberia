@@ -1,0 +1,30 @@
+.c-footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.color-primary{ background: black !important; }
+
+.color-secondary{ background: #fe9e31 !important; }
+.text-color-secondary-hover:hover{ color: #f78400 !important; }
+.text-color-secondary{ color: #fe9e31 !important; }
+
+.color-secondary:hover{ background: #f78400 !important; }
+.text-color-secondary:hover{ color: #f78400 !important; }
+
+.border{
+    border-radius: 50px !important; 
+}
+
+button, a, button:focus, a:focus{
+    outline: none !important;
+    border: none !important;
+}
+
+.fa-brands{
+    font-size: 20px !important;
+}
+
+.error-messages{
+    color: red !important;
+}
