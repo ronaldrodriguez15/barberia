@@ -1,3 +1,8 @@
+.back-dark{
+    background: #000000; 
+    background: -webkit-linear-gradient(to right, #000000, #434343); 
+    background: linear-gradient(to right, #000000, #434343); 
+}
 .c-footer{
     position: absolute;
     bottom: 0;
